@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Beach
+comment0.text=\r\n\ 5\ marks\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=Beach()
+comment3.params=n
+comment3.target=void\ addFood(int)
+comment3.text=\r\n\ Adds\ 10\ pieces\ of\ food\ in\ random\ positions\ on\ the\ world\r\n\ each\ piece\ of\ food\ has\ a\ random\ x\ and\ y\ location\r\n\ \r\n\ @param\ the\ parameter\ is\ int\ n\r\n\ @return\ there\ is\ no\ return\r\n
+comment4.params=
+comment4.target=void\ update()
+numComments=5

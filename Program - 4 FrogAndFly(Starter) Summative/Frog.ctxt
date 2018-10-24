@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Frog
+comment0.text=\r\n\ 10\ marks\r\n
+comment1.params=
+comment1.target=Frog()
+comment1.text=\r\n\ gets\ a\ random\ number\ from\ 4-\ 8\ to\ be\ set\ as\ the\ speed\ of\ the\ frog\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ there\ is\ no\ return\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ move()
+comment3.text=\r\n\ makes\ the\ frog\ move\ forward\ by\ a\ random\ number\ between\ 4\ and\ 8\r\n\ 35%\ of\ the\ time\ the\ frog\ turns\ one\ way,\ 50%\ of\ the\ time\ it\ turns\ 15\ degrees\ clockwise\ the\ other\ 50%\ it\ turns\ 15\ degrees\ counter\ clockwise\r\n\ if\ the\ frog\ reaches\ the\ edge\ of\ the\ world\ it\ turns\ 7\ degrees\ clockwise\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ there\ is\ no\ return\r\n
+comment4.params=
+comment4.target=void\ touchingFly()
+comment4.text=\r\n\ if\ the\ frog\ comes\ into\ contact\ with\ the\ fly\ the\ senacrio\ stops\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ there\ is\ no\ return\r\n
+numComments=5

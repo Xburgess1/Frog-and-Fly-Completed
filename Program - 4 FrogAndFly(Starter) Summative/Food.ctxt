@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Food
+comment1.params=
+comment1.target=Food()
+comment1.text=\r\n\ gets\ a\ random\ number\ for\ the\ foodType\ variable\ which\ is\ then\ used\ to\ determine\ what\ fruit\ shows\ up\r\n\ if\ the\ random\ number\ is\ 0\ the\ fruit\ is\ an\ apple\r\n\ if\ the\ random\ number\ is\ 1\ the\ fruit\ is\ a\ banana\r\n\ if\ the\ random\ number\ is\ 2\ the\ fruit\ is\ a\ cherry\r\n\ if\ the\ random\ number\ is\ 3\ the\ fruit\ is\ a\ grape\r\n\ if\ the\ random\ number\ is\ anything\ else\ teh\ fruit\ is\ a\ strawberry\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ there\ is\ no\ return\r\n
+numComments=2
